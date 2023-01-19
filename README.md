@@ -15,16 +15,10 @@ or
 
 
 ## Tutorial files
-<!--
 | Item | [nbviewer](https://nbviewer.jupyter.org/) | [mybinder](https://mybinder.org/) |
 |:-|:-:|:-:|
 | [`introduction_to_trixi.ipynb`](introduction_to_trixi.ipynb) | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/trixi-framework/tutorial-2023-snubic/blob/main/introduction_to_trixi.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trixi-framework/tutorial-2023-snubic/HEAD?filepath=introduction_to_trixi.ipynb) |
 | [`introduction_to_julia.ipynb`](introduction_to_julia.ipynb) | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/trixi-framework/tutorial-2023-snubic/blob/main/introduction_to_julia.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trixi-framework/tutorial-2023-snubic/HEAD?filepath=introduction_to_julia.ipynb) |
--->
-| Item | [nbviewer](https://nbviewer.jupyter.org/) | [mybinder](https://mybinder.org/) |
-|:-|:-:|:-:|
-| `introduction_to_trixi.ipynb` | tba. | tba. |
-| `introduction_to_julia.ipynb` | tba. | tba. |
 
 **Note: The Jupyter notebook files will be provided at the latest on the day of the
 tutorial.** You can, however, already follow the instructions
